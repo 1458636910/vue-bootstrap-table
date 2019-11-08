@@ -1,3 +1,7 @@
+跑项目时请先运行 untils中的index.js文件！
+跑项目时请先运行 untils中的index.js文件！
+跑项目时请先运行 untils中的index.js文件！
+否则会没有数据
 # table
 
 > A Vue.js project
